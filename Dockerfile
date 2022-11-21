@@ -1,6 +1,6 @@
 # escape=`
 
-FROM abrarov/msvc-2019
+FROM abrarov/msvc-2022
 
 COPY build.bat C:\
 
